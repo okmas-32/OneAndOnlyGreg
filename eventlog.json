@@ -1,29 +1,43 @@
 [
   {
-    "datum": "2024.02.01",
-    "nazov": "Vybuch cleanroomu",
     "popis": "Majo položil mašinu tam kde nemal (udajne sa spojil kabel)",
     "pachatel": "majo",
-    "tagy": ["vybuch", "cleanroom"]
+    "nazov": "Vybuch cleanroomu",
+    "datum": "2024.02.01",
+    "tagy": [
+      "vybuch",
+      "cleanroom"
+    ]
   },
   {
-    "datum": "2023.12.07",
-    "kratkyNazov": "Vybuch chemky",
     "popis": "Uz z toho staci len spravit polytetraflueroethylene...",
     "pachatel": "majo",
+    "nazov": "Vybuch chemky",
+    "datum": "2023.12.07",
     "tagy": [
       "vybuch",
       "chemka"
     ]
   },
   {
-    "datum": "2023.11.27",
-    "kratkyNazov": "Zhorel dom",
     "popis": "Firestone",
     "pachatel": "Viktor",
+    "nazov": "Zhorel dom",
+    "datum": "2023.11.27",
     "tagy": [
       "fire",
       "house"
+    ]
+  },
+  {
+    "popis": "the test of eventlog",
+    "pachatel": "Okmas55",
+    "nazov": "Test",
+    "datum": "2024.02.02",
+    "tagy": [
+      "devel",
+      "test",
+      "bajojajo"
     ]
   }
 ]
