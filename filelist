@@ -1,0 +1,13 @@
+lib/json.lua
+ris/init.lua
+ris/io.lua
+ris/ui/battery.lua
+ris/ui/switch.lua
+ris/discord/init.lua
+tcp.lua
+test.lua
+sync2.lua
+botTest.lua
+metest.lua
+eventlog.lua
+eventlog.json

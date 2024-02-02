@@ -1,0 +1,29 @@
+[
+  {
+    "datum": "2024.02.01",
+    "nazov": "Vybuch cleanroomu",
+    "popis": "Majo položil mašinu tam kde nemal (udajne sa spojil kabel)",
+    "pachatel": "majo",
+    "tagy": ["vybuch", "cleanroom"]
+  },
+  {
+    "datum": "2023.12.07",
+    "kratkyNazov": "Vybuch chemky",
+    "popis": "Uz z toho staci len spravit polytetraflueroethylene...",
+    "pachatel": "majo",
+    "tagy": [
+      "vybuch",
+      "chemka"
+    ]
+  },
+  {
+    "datum": "2023.11.27",
+    "kratkyNazov": "Zhorel dom",
+    "popis": "Firestone",
+    "pachatel": "Viktor",
+    "tagy": [
+      "fire",
+      "house"
+    ]
+  }
+]
