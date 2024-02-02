@@ -17,7 +17,7 @@ local function download(cesta)
 end
 
 local function main()
-  for fileName in download("filelist"):gmatch("([^\n]+)\n") do
+  for fileName in download("filelist.txt"):gmatch("([^\n]+)\n") do
     io.write("Stahujem: ", fileName, "\n")
 
     local fh = io.open(fileName, "w")
