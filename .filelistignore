@@ -1,0 +1,7 @@
+.gitignore
+gen_filelist.lua
+.vscode
+.git
+.gitignore
+filelist.txt
+eventlog.json
