@@ -5,3 +5,4 @@ gen_filelist.lua
 .gitignore
 filelist.txt
 eventlog.json
+env.json
