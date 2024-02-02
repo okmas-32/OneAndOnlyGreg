@@ -4,7 +4,6 @@ ris/io.lua
 ris/ui/battery.lua
 ris/ui/switch.lua
 ris/discord/init.lua
-tcp.lua
 test.lua
 sync2.lua
 botTest.lua
